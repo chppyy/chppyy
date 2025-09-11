@@ -109,6 +109,12 @@ shout out to my github bros:
 
 ---
 
+[![subminimal's GitHub stats](https://github-readme-stats.vercel.app/api?username=submini&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/submini)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=submini&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/submini)
+
+---
+
 ## 🔗 find me everywhere
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCVPYKUzSphhg6Z8WRwthrxQ?style=flat&logo=youtube&logoColor=white&label=%40mariopuff184&labelColor=ff0000&color=black)](https://youtube.com/@mariopuff184)
 [![Twitch](https://img.shields.io/twitch/status/mariopuff?style=flat&logo=twitch&logoColor=white&label=mariopuff&labelColor=%239146FF&color=black)](https://twitch.tv/mariopuff)
