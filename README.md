@@ -7,7 +7,7 @@
 <div align="right"><sub><i>that’s momo,  he’s just vibing. →</i></sub></div>
 
 <br><br>
-[![Discord](https://img.shields.io/badge/@mariopuff.-5661ea?style=flat&logo=discord&logoColor=white)](https://discord.com/users/913646560838041660)
+[![Discord](https://img.shields.io/badge/@mariopuff-5661ea?style=flat&logo=discord&logoColor=white)](https://discord.com/users/913646560838041660)
 [![X](https://img.shields.io/badge/@toybunny__-black?style=flat&logo=x&logoColor=white)](https://x.com/toybunny_)
 [![mariopuff.github.io](https://custom-icon-badges.demolab.com/badge/-mariopuff.github.io-333333?logo=globe)](https://mariopuff.github.io)  
 [![GitHub followers](https://img.shields.io/github/followers/mariopuff?label=followers&style=flat&labelColor=bc002d&color=ffffff)](https://github.com/mariopuff)
